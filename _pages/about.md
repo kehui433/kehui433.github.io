@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, machine learning, computational photography and robotics.
+I am a master’s graduate from from [School of EEIT](http://eeit.hnu.edu.cn/index.htm), [Hunan University](https://www.hnu.edu.cn/). My research interest includes computer vision, machine learning, computational photography and robotics.
 
-I am very fortunate to be advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/) of BLV Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. Boxin Shi](https://ci.idm.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+Then I worked as as a Software R&D Engineer at [Shopee](https://shopee.com) and [Vanguard](https://861china.csgc.com.cn/861china/index.html), I gained valuable industry experience in developing control software for 3D printing equipment and implementing detection algorithms with a high accuracy rate. I possess comprehensive knowledge of computer vision, image processing, and machine learning/AI methods, and I have demonstrated proficiency in software development with languages such as Python, C, and C++. 
 
 You can find my CV here: [Di Qiu's Curriculum Vitae](../assets/Di_Qiu_CV.pdf).
 
-**I’m actively seeking opportunities to pursue a Master's degree starting from Fall 2024.**
+**I’m actively seeking opportunities to pursue a phD's degree.**
 
-[Email](mailto:qiudi@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [Blog](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](kehui_zhang433@163.com) / [Github](https://github.com/kehui433) / [Wechat](../images/wechat.jpg) / [Blog](https://blog.csdn.net/qq_20948203)
