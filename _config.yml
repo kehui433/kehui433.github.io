@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Di Qiu's Personal Homepage"
+title                    : "Zhang Kehui's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Di Qiu"
-description              : &description "a third year undergraduate student from Peking University"
-url                      : https://qiudi233.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhang Kehui"
+description              : &description "a graduate student from Hunan University"
+url                      : https://kehui433.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "QiuDi233/QiuDi233.github.io"
+repository               : "kehui433/kehui433.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Di Qiu（邱荻）"
-  avatar           : "qiudi.png"
-  bio              : "Peking University"
-  location         : "China Beijing"
+  name             : "Zhang Kehui（张可惠）"
+  avatar           : "kehui.jpg"
+  bio              : "Hunan University"
+  location         : "China Changsha"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
