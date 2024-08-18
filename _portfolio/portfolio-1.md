@@ -1,12 +1,10 @@
 ---
-title: "NOGO"
-excerpt: "This is a board game called NOGO using min-max algorithm. <br/><img src='/images/NOGO.png'>"
-collection: portfolio
+title: "BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation"
+collection: publications
+permalink: /publication/2019-bayespostest
+date: 2019-10-01
+venue: 'Journal of Open Source Software'
+paperurl: '/files/pdf/research/BayesPostEst.pdf'
+link: 'https://doi.org/10.21105/joss.01722'
+citation: 'Scogin, Shana, Johannes Karreth, Andreas Beger, and Rob Williams. 2019. &quot;BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation.&quot; <i>Journal of Open Source Software</i> 4(42): 1722. doi:10.21105/joss.01722'
 ---
-2020.12
-
-This is a board game called NOGO，and you can find the rule [here](https://wiki.botzone.org.cn/index.php?title=NoGo).
-
-Min-max for the algorithm and EasyX for the UI.
-
-[Demo](https://www.bilibili.com/video/BV1bK411o7Yr/?spm_id_from=333.999.0.0) / [Code](https://github.com/QiuDi233/Peking-University-NOGO-)
