@@ -14,6 +14,6 @@ Then I worked as as a Software R&D Engineer at [Shopee](https://shopee.com) and 
 
 You can find my CV here: [Kehui's CV](../assets/CV-Kehui.pdf ).
 
-**I’m actively seeking opportunities to pursue a phD's degree.**
+**I’m actively seeking opportunities to pursue a PhD's degree.**
 
 [Email](kehui_zhang433@163.com) / [Github](https://github.com/kehui433) / [Wechat](../images/wechat.jpg) / [Blog](https://blog.csdn.net/qq_20948203)
